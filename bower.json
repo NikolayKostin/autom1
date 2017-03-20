@@ -1,0 +1,21 @@
+{
+  "name": "autom1",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Nik Kostin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/NikolayKostin/autom1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-scss": "normalize.scss#^6.0.0",
+    "animate.css": "^3.5.2"
+  }
+}

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NikolayKostin/autom1/issues"
   },
-  "homepage": "https://github.com/NikolayKostin/autom1#readme"
+  "homepage": "https://github.com/NikolayKostin/autom1#readme",
+  "dependencies": {
+    "normalize.scss": "^0.1.0"
+  }
 }
