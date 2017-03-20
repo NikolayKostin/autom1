@@ -18,5 +18,9 @@
   "homepage": "https://github.com/NikolayKostin/autom1#readme",
   "dependencies": {
     "normalize.scss": "^0.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
   }
 }
